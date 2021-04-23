@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b676ddc963bf0c147bb10f71b64e6d0b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - burgerPrefab: {fileID: 919132149155446097, guid: 758759fe31ade76409902b5d9aea0b97, type: 3}
+  - pizzaPrefab: {fileID: 919132149155446097, guid: dda9bdc1683f70243bbb7809e3d5986f, type: 3}
+  - soupPrefab: {fileID: 919132149155446097, guid: 7ffde94e8f502174fb7a1f84b649c9ed, type: 3}
+  - burgerSpawn: {fileID: 4442012854906576291, guid: 38e60590b36352b43b28b074756f15ed, type: 3}
+  - pizzaSpawn: {fileID: 4802180223829097168, guid: 375f1c459af4df94b9af4506b3397f74, type: 3}
+  - soupSpawn: {fileID: 5779980155964402661, guid: f6fb9ed2da224e8468aad449296f6499, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

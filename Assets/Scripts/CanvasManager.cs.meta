@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 42b4d499367b355429e9bf151aea4328
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - burgerButton: {instanceID: 0}
+  - pizzaButton: {instanceID: 0}
+  - soupButton: {instanceID: 0}
+  - burgerTimer: {instanceID: 0}
+  - pizzaTimer: {instanceID: 0}
+  - soupTimer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
